@@ -129,7 +129,7 @@ body {
   border-radius: 3px;
 }
 .bg-primary {
-  background-color: #5b686b !important;
+  background-color: #f9f295 !important;
 }
 .bg-success {
   background-color: #f7ed4a !important;
@@ -145,23 +145,23 @@ body {
 }
 .btn-primary,
 .btn-primary:active {
-  background-color: #5b686b !important;
-  border-color: #5b686b !important;
-  color: #ffffff !important;
+  background-color: #f9f295 !important;
+  border-color: #f9f295 !important;
+  color: #877e08 !important;
 }
 .btn-primary:hover,
 .btn-primary:focus,
 .btn-primary.focus,
 .btn-primary.active {
-  color: #ffffff !important;
-  background-color: #384042 !important;
-  border-color: #384042 !important;
+  color: #877e08 !important;
+  background-color: #f5e94d !important;
+  border-color: #f5e94d !important;
 }
 .btn-primary.disabled,
 .btn-primary:disabled {
-  color: #ffffff !important;
-  background-color: #384042 !important;
-  border-color: #384042 !important;
+  color: #877e08 !important;
+  background-color: #f5e94d !important;
+  border-color: #f5e94d !important;
 }
 .btn-secondary,
 .btn-secondary:active {
@@ -309,22 +309,22 @@ body {
 .btn-primary-outline,
 .btn-primary-outline:active {
   background: none;
-  border-color: #2c3234;
-  color: #2c3234;
+  border-color: #f4e634;
+  color: #f4e634;
 }
 .btn-primary-outline:hover,
 .btn-primary-outline:focus,
 .btn-primary-outline.focus,
 .btn-primary-outline.active {
-  color: #ffffff;
-  background-color: #5b686b;
-  border-color: #5b686b;
+  color: #877e08;
+  background-color: #f9f295;
+  border-color: #f9f295;
 }
 .btn-primary-outline.disabled,
 .btn-primary-outline:disabled {
-  color: #ffffff !important;
-  background-color: #5b686b !important;
-  border-color: #5b686b !important;
+  color: #877e08 !important;
+  background-color: #f9f295 !important;
+  border-color: #f9f295 !important;
 }
 .btn-secondary-outline,
 .btn-secondary-outline:active {
@@ -461,7 +461,7 @@ body {
   border-color: #ffffff;
 }
 .text-primary {
-  color: #5b686b !important;
+  color: #f9f295 !important;
 }
 .text-secondary {
   color: #ff3366 !important;
@@ -486,7 +486,7 @@ body {
 }
 a.text-primary:hover,
 a.text-primary:focus {
-  color: #2c3234 !important;
+  color: #f4e634 !important;
 }
 a.text-secondary:hover,
 a.text-secondary:focus {
@@ -533,9 +533,9 @@ a.text-black:focus {
   box-shadow: none !important;
 }
 .mbr-gallery-filter li.active .btn {
-  background-color: #5b686b;
-  border-color: #5b686b;
-  color: #ffffff;
+  background-color: #f9f295;
+  border-color: #f9f295;
+  color: #9f9509;
 }
 .mbr-gallery-filter li.active .btn:focus {
   box-shadow: none;
@@ -548,11 +548,11 @@ a.text-black:focus {
 }
 a,
 a:hover {
-  color: #5b686b;
+  color: #f9f295;
 }
 .mbr-plan-header.bg-primary .mbr-plan-subtitle,
 .mbr-plan-header.bg-primary .mbr-plan-price-desc {
-  color: #9ba7aa;
+  color: #ffffff;
 }
 .mbr-plan-header.bg-success .mbr-plan-subtitle,
 .mbr-plan-header.bg-success .mbr-plan-price-desc {
@@ -670,7 +670,7 @@ blockquote {
   padding: 10px 0 10px 20px;
   font-size: 1.09rem;
   position: relative;
-  border-color: #5b686b;
+  border-color: #f9f295;
   border-width: 3px;
 }
 ul,
@@ -719,7 +719,7 @@ pre {
   text-align: center;
   position: relative;
   border: 2px solid #c0a375;
-  border-color: #5b686b;
+  border-color: #f9f295;
   color: #232323;
   cursor: pointer;
 }
@@ -730,7 +730,7 @@ pre {
 }
 .btn-social:hover {
   color: #fff;
-  background: #5b686b;
+  background: #f9f295;
 }
 .btn-social + .btn {
   margin-left: .1rem;
@@ -738,11 +738,11 @@ pre {
 /* Footer */
 .mbr-footer-content li::before,
 .mbr-footer .mbr-contacts li::before {
-  background: #5b686b;
+  background: #f9f295;
 }
 .mbr-footer-content li a:hover,
 .mbr-footer .mbr-contacts li a:hover {
-  color: #5b686b;
+  color: #f9f295;
 }
 /* Headers*/
 .offset-1 {
@@ -1666,7 +1666,7 @@ body {
 }
 .cid-qPrYJtbe8f .nav-link:hover,
 .cid-qPrYJtbe8f .dropdown-item:hover {
-  color: #f9f295 !important;
+  color: #ffffff !important;
 }
 .cid-qPs5zJs5HX .modal-body .close {
   background: #1b1b1b;
@@ -2379,7 +2379,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffffff;
+  background-color: #f9f295;
 }
 .cid-qPrYJtbe8f button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -2596,5 +2596,5 @@ body {
 }
 .cid-qPrYJtbe8f .nav-link:hover,
 .cid-qPrYJtbe8f .dropdown-item:hover {
-  color: #f9f295 !important;
+  color: #ffffff !important;
 }
