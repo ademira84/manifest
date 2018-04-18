@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "My Site",
+    "name": "MANIFEST",
     "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 40,
@@ -35,7 +35,10 @@
       ]
     },
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": "",
+    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>."
   },
   "pages": {
     "index.html": {
@@ -721,7 +724,7 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "IESI IN EVIDENTA",
+                "title": "IESI IN STRADA",
                 "overlay": false,
                 "contentAlign": "center",
                 "text": "PRINTURI IN CULORI VIBRANTE",
