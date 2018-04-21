@@ -3,7 +3,7 @@
     "name": "MANIFEST",
     "currentPage": "index.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 65,
+    "uniqCompNum": 67,
     "versionPublish": "4.7.1",
     "theme": {
       "name": "mobirise4",
@@ -732,7 +732,7 @@
                 "overlayColor": "#232323"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/lotus-1412859-1920x1272.jpg",
+                "image": "@PROJECT_PATH@/assets/images/untitled-1-4-2000x1124.png",
                 "active": true,
                 "showButtons": false,
                 "showText": true,
